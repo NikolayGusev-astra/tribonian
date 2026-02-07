@@ -21,7 +21,9 @@ downloads/
 *.webp
 *.pdf
 *.txt
+!requirements.txt
 *.md
+!README.md
 
 # IDE
 .vscode/
